@@ -1,2 +1,2 @@
 # Machine-Learning-from-Data
-This repo contains assignments from the Machine Learning from Data Course
+This repository contains the assignments from the "Machine Learning from Data" course in the computer science faculty at IDC.
