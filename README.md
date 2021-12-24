@@ -8,4 +8,4 @@ The course presented the main principles of data-driven learning algorithms. Pro
 Students will implement and use algorithms and will practice their
 application in real-life data contexts.
 ## hw1
-
+[link](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/hw1)
