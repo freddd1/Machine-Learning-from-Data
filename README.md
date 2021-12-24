@@ -6,3 +6,4 @@ application in real-life data contexts.
 ## Table Of Contents
 -  [Linear Regression - hw1](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/hw1)
 -  [Decision Trees - hw2](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/hw2)
+-  [Bayesian Learning - hw3](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/bayesian-learning)
