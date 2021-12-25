@@ -4,6 +4,6 @@ The course presented the main principles of data-driven learning algorithms. Pro
 Students will implement and use algorithms and will practice their
 application in real-life data contexts.
 ## Table Of Contents
--  [Linear Regression - hw1](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/hw1)
--  [Decision Trees - hw2](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/hw2)
+-  [Linear Regression - hw1](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/linear-regression)
+-  [Decision Trees - hw2](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/decision-trees)
 -  [Bayesian Learning - hw3](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/bayesian-learning)
