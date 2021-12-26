@@ -7,3 +7,4 @@ application in real-life data contexts.
 -  [Linear Regression - hw1](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/linear-regression)
 -  [Decision Trees - hw2](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/decision-trees)
 -  [Bayesian Learning - hw3](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/bayesian-learning)
+-  [Logistic Regression and Naive-Bayes using EM](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/logistic-regression-naive-bayes-em)
