@@ -4,7 +4,7 @@ The course presented the main principles of data-driven learning algorithms. Pro
 Students will implement and use algorithms and will practice their
 application in real-life data contexts.
 
-The `environment.yml` file contains all the necessary packages to run all of the assignments.
+Note: The `environment.yml` file contains all the necessary packages to run all of the assignments.
 ## Table Of Contents
 -  [Linear Regression - hw1](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/linear-regression)
 -  [Decision Trees - hw2](https://github.com/freddd1/Machine-Learning-from-Data/tree/main/decision-trees)
